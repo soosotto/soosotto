@@ -1,4 +1,4 @@
-# Szia, @soosotto vagyok! 👋 | Hi, I'm @soosotto!
+# Szia, @soosotto vagyok! | Hi, I'm @soosotto!
 
 <!-- SEO KEYWORDS & SEARCH OPTIMIZATION -->
 <!-- Keywords: építész hallgató, architecture student, design, ArchiCAD, Hungary, Pécs, analízisek, urban design, transport hub, intermodal, sustainable development, Szeged, TOD, Urban Village -->
@@ -53,6 +53,6 @@ Kapcsolat | Connect with me
 - Email: [archotto.s@gmail.com](mailto:archotto.s@gmail.com)
 - Helyszín: Pécs / Szeged, Hungary
 
+---
 
 🤔 I’m looking for any other research ideas. Thank you
--->
