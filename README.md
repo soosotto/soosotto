@@ -47,7 +47,18 @@ Leírás / Description:
 ---
 
 GitHub Statisztikák | Stats
-![soosotto GitHub Stats](https://vercel.app)
+<!-- Így ha rákattintanak, nem hibára fut, hanem a te profilodat tölti újra -->
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="soosotto GitHub Stats" />
+</a>
+
+<!-- Ha a fenti kártya teljesen üres vagy hibát jelez az új profil miatt, ez a trófea kártya garantáltan működik és jól néz ki: -->
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="soosotto Trophies" />
+  </a>
+</p>
+
 
 ---
 
