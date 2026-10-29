@@ -11,7 +11,7 @@ I am an architecture student interested in research and unique ideas. My goal is
 
 Eszközök és Technológiák | Tools & Technologies
 - Tervezés & BIM: ArchiCAD 
-- Szakterületek: Építészeti analízisek, Városfejlesztési modellek, Fenntarthatóság 🌍
+- Szakterületek: Építészeti analízisek, Városfejlesztési modellek, Fenntarthatóság 
 
 ---
 
