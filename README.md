@@ -18,6 +18,7 @@ Eszközök és Technológiák | Tools & Technologies
 Amik jelenleg foglalkoztatnak | I’m currently working on
 
 Kutatás 1 / Research 1
+
 Cím / Title:
 
 - Intermodális közösségi közlekedési csomópont-változatok hatásvizsgálata Szegeden a Déli Tisza-híd megépítését követően
@@ -31,6 +32,7 @@ Leírás / Description:
 
 
 Kutatás 2 / Research 2
+
 Cím / Title: 
 
 - Fenntartható városfejlesztési modellek: TOD (Transit-Oriented Development) és Urban Village alkalmazása egy új intermodális csomópont környezetében.
